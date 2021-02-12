@@ -1,15 +1,5 @@
-Bandcamp
-Cryptome
-DansTonChat
-DuckDuckGo
+Reddit
 Facebook
-Flickr
-GoogleSearch
-Identica
 Instagram
-OpenClassrooms
-Pinterest
-Scmb
 Twitter
-Wikipedia
 Youtube
